@@ -19,9 +19,7 @@ function bloomstrap_widgets_init() {
         'before_title'  => '<h1 class="widget-title">',
         'after_title'   => '</h1>',
     ) );
-
-    register_sidebar( array(
-
+}
 
 if ( ! function_exists( 'bloomstrap_setup' ) ) :
 /**
