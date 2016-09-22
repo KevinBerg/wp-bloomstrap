@@ -1,0 +1,3 @@
+<footer>
+    Impressum and more...
+</footer>

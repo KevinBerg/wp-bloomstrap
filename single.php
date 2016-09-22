@@ -6,3 +6,5 @@
  * For specific single post type templates build single-{post-type}.php
  * @author Kevin Berg <mail@kevinberg.de>
  */
+
+echo 'single';

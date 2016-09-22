@@ -5,3 +5,5 @@
  * For specific page templates build page-{page-type}.php
  * @author Kevin Berg <mail@kevinberg.de>
  */
+
+echo 'page';
